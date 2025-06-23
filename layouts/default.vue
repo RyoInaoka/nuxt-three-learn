@@ -7,6 +7,9 @@
   </div>
 </template>
 <style>
+html {
+  font-family: "Noto Sans JP", sans-serif;
+}
 header {
   padding: 10px;
   background-color: #000;
